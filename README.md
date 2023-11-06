@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]()
+[![MasterHead]([https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif))]()
 <h1 align="center">Hi 👋, I'm Hasan Bin Jamal</h1>
 <h3 align="center">I am a software engineer and machine learning enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4737vjoi0xuatvyusfns4qvztynhfk7sfrb5qqu474&ep=v1_gifs_search&rid=giphy.gif&ct=g">
